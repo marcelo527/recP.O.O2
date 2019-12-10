@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">recP.O.O2</string>
+    <string-array name="lista1">
+        <item>lasanha</item>
+        <item>pizza</item>
+        <item>esfirra</item>
+        <item>strogonoff</item>
+        <item>ratatouille</item>
+    </string-array>
+    <string-array name="lista2">
+        <item>Coca-Cola</item>
+        <item>Pepsi</item>
+        <item>Cine</item>
+        <item>Dolly</item>
+        <item>Água</item>
+    </string-array>
+
+</resources>
